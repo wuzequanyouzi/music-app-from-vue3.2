@@ -1,0 +1,104 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id 2244372 */
+  src: url('./iconfont.woff2') format('woff2'),
+    url('./iconfont.woff') format('woff'),
+    url('./iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pinglun:before {
+  content: "\e6e5";
+}
+
+.icon-download:before {
+  content: "\e66a";
+}
+
+.icon-delete:before {
+  content: "\e602";
+}
+
+.icon-play1:before {
+  content: "\e651";
+}
+
+.icon-link:before {
+  content: "\e613";
+}
+
+.icon-upload:before {
+  content: "\e605";
+}
+
+.icon-nextsong:before {
+  content: "\e6a1";
+}
+
+.icon-play:before {
+  content: "\e63a";
+}
+
+.icon-last_song:before {
+  content: "\e63c";
+}
+
+.icon-pause:before {
+  content: "\e63d";
+}
+
+.icon-next_song:before {
+  content: "\e63e";
+}
+
+.icon-open:before {
+  content: "\e63f";
+}
+
+.icon-notcollected:before {
+  content: "\e83f";
+}
+
+.icon-collected:before {
+  content: "\e85c";
+  color: #c73e3e;
+}
+
+.icon-musicplay1:before {
+  content: "\e604";
+}
+
+.icon-guanbi:before {
+  content: "\e608";
+}
+
+.icon-suofang:before {
+  content: "\e6e1";
+}
+
+.icon-fangda:before {
+  content: "\e680";
+}
+
+.icon-suoxiao:before {
+  content: "\e6c0";
+}
+
+.icon-search:before {
+  content: "\e601";
+}
+
+.icon-tinggeshiqu:before {
+  content: "\e6e8";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\e61d";
+}
